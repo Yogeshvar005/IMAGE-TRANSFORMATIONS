@@ -32,7 +32,7 @@ Developed By: Yogeshvar M
 Register Number: 212222230180
 ```
 
-i)Image Translation
+### i)Image Translation
 ```python
 import numpy as np
 import cv2
@@ -54,7 +54,7 @@ plt.show()
 ![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/c8f75222-12bd-4bc4-beaa-6f95b5c5ec36)        
 
 
-ii) Image Scaling
+### ii) Image Scaling
 ```python
 import numpy as np
 import cv2
@@ -73,7 +73,7 @@ plt.show()
 ![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/e89e461e-ceda-4add-9a59-ff5f5361f55c)          
 
 
-iii)Image shearing
+### iii)Image shearing
 ```python
 import numpy as np
 import cv2
@@ -95,7 +95,7 @@ plt.show()
 ![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/a957d6b9-105a-4b89-82bb-c0e378d75ab0)          
 ![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/6095fbea-78a2-4d9b-9bf2-cf06f151da1d)            
 
-iv)Image Reflection
+### iv)Image Reflection
 ```python
 import numpy as np
 import cv2
@@ -119,7 +119,7 @@ plt.show()
 
 
 
-v)Image Rotation
+### v)Image Rotation
 ```python
 import numpy as np
 import cv2
@@ -143,7 +143,7 @@ plt.show()
 
 
 
-vi)Image Cropping
+### vi)Image Cropping
 ```python
 import numpy as np
 import cv2
