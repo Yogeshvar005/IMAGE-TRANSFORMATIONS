@@ -38,7 +38,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-input_image=cv2.imread("book.jpeg")
+input_image=cv2.imread("rajini.jpg")
 input_image=cv2.cvtColor(input_image, cv2.COLOR_BGR2RGB)
 plt.axis('off')
 plt.imshow(input_image)
@@ -59,7 +59,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-org_image = cv2.imread("obj.jpeg")
+org_image = cv2.imread("rajini.jpg")
 org_image = cv2.cvtColor(org_image,cv2.COLOR_BGR2RGB)
 plt.imshow(org_image)
 plt.show()
@@ -78,7 +78,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-org_image = cv2.imread("obj.jpeg")
+org_image = cv2.imread("rajini.jpg")
 org_image = cv2.cvtColor(org_image,cv2.COLOR_BGR2RGB)
 plt.imshow(org_image)
 plt.show()
@@ -100,7 +100,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-org_image = cv2.imread("obj.jpeg")
+org_image = cv2.imread("rajini.jpg")
 org_image = cv2.cvtColor(org_image,cv2.COLOR_BGR2RGB)
 plt.imshow(org_image)
 plt.show()
@@ -124,7 +124,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-org_image = cv2.imread("obj.jpeg")
+org_image = cv2.imread("rajini.jpg")
 org_image = cv2.cvtColor(org_image,cv2.COLOR_BGR2RGB)
 plt.imshow(org_image)
 plt.show()
@@ -138,8 +138,8 @@ plt.show()
 plt.imshow(reflected_img_yaxis)
 plt.show()
 ```
-![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/93d25d20-df16-4a0d-a3bd-8e7d9b3672f5)        
-![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/bcd4e5f4-4795-4aec-af23-c1f31f9d7436)        
+![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/f5bda604-da34-4955-bff7-361909bab705)
+![image](https://github.com/Yogeshvar005/IMAGE-TRANSFORMATIONS/assets/113497367/054608c5-9e95-4a67-9203-274b5d33b924)
 
 
 
@@ -148,7 +148,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-org_image = cv2.imread("obj.jpeg")
+org_image = cv2.imread("rajini.jpg")
 org_image = cv2.cvtColor(org_image,cv2.COLOR_BGR2RGB)
 plt.imshow(org_image)
 plt.show()
